@@ -1,0 +1,14 @@
+<h1> Hello World </h1>
+<h2> A program to greet the planet. </h2>
+
+<p>This page is an attempt to greet everyone on Earth using our various human languages.  We're interested to see how long our list can become.</p>
+
+<p>We'll start with languages that the Epicodus staff could offer without using Google. </p>
+
+<ul>
+  <li> English: Hello, world! </li>
+  <li> Spanish:  Hola, mundo! </li>
+  <li> Japanese: Konnichiwa, sekai! </li>
+  <li> French: Bonjour, monde! </li>
+  <li> Kinyarwanda: Mwirwe, isi! </li>
+</ul>
