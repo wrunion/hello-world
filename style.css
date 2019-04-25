@@ -1,0 +1,27 @@
+html {
+  background-image: url(hello-world-background-repeat-2-500.jpg);
+  background-repeat: repeat;
+}
+
+#main {
+  background: rgba(225,196,100,0.96);
+  color: rgb(42,39,61);
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#title {
+  font-family: 'Owsald', sans-serif;
+}
+
+#content {
+  font-family: sans-serif;
+  color: purple;
+}
+
+ul {
+  list-style: none;
+}
+
+//background: rgba(42,39,61,0.5);
